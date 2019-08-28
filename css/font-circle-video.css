@@ -1,11 +1,11 @@
-@font-face {
+@font-face {https://github.com/crapmaker/z/blob/master/fonts/circle-video.woff2
   font-family: 'circle-video';
-  src: url('../fonts/circle-video.eot?73698447');
-  src: url('../fonts/circle-video.eot?73698447#iefix') format('embedded-opentype'),
-       url('../fonts/circle-video.woff2?73698447') format('woff2'),
-       url('../fonts/circle-video.woff?73698447') format('woff'),
-       url('../fonts/circle-video.ttf?73698447') format('truetype'),
-       url('../fonts/circle-video.svg?73698447#circle-video') format('svg');
+  src: url('https://github.com/crapmaker/z/blob/master/fonts/circle-video.eot?raw=true?73698447');
+  src: url('https://github.com/crapmaker/z/blob/master/fonts/circle-video.eot?raw=true?73698447#iefix') format('embedded-opentype'),
+       url('https://github.com/crapmaker/z/blob/master/fonts/circle-video.woff2?raw=true?73698447') format('woff2'),
+       url('https://github.com/crapmaker/z/blob/master/fonts/circle-video.woff2?raw=true?73698447') format('woff'),
+       url('https://github.com/crapmaker/z/blob/master/fonts/circle-video.ttf?raw=true?73698447') format('truetype'),
+       url('https://rawcdn.githack.com/crapmaker/z/811426da72838f668faa3cf85b75ffce532b3869/fonts/circle-video.svg?73698447#circle-video') format('svg');
   font-weight: normal;
   font-style: normal;
 }
